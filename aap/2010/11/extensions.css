@@ -14,5 +14,7 @@
 root { 
     display: block;
     color: blue;
+    padding-top: 10px; /*20101110-1330*/
+
 }
 
